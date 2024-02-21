@@ -1,3 +1,4 @@
-"use strict";
+import  app from "./request";
 
-getData()
+console.log(app);
+
